@@ -17,7 +17,7 @@
 # Git server
 GIT_SERVER='https://github.com'
 # Git user
-GIT_USER='ahuacate'
+GIT_USER='skrawn'
 # Git repository
 GIT_REPO='pve-medialab'
 # Git branch
@@ -39,13 +39,8 @@ GIT_COMMON='0'
 vm_LIST=( "deluge:deluge:ct:deluge torrent downloader"
 "jellyfin:jellyfin:ct:jellyfin media server"
 "lidarr:lidarr:ct:lidarr music collection manager"
-"notifiarr:notifiarr:ct:notifiarr client"
-"nzbget:nzbget:ct:nzbget usenet downloader (depreciated)"
-"prowlarr:prowlarr:ct:prowlarr index manager"
 "radarr:radarr:ct:radarr movie collection manager"
-"readarr:readarr:ct:readarr book collection manager"
 "sabnzbd:sabnzbd:ct:sabnzbd usenet downloader"
-"sonarr:sonarr:ct:sonarr v3 series collection manager"
 "sonarr4:sonarr4:ct:sonarr v4 beta series collection manager (recommended)"
 "tdarr:tdarr:ct:transcoding app for automating media library transcode/remux management"
 "vidcoderr:vidcoderr:ct:video transcoder application"
